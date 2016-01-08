@@ -1,0 +1,27 @@
+{
+  "name": "b-math",
+  "version": "0.1.0",
+  "description": "bit operations in javascript",
+  "main": "bmath.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qddegtya/bMath.js.git"
+  },
+  "keywords": [
+    "math",
+    "javascript"
+  ],
+  "author": "archer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qddegtya/bMath.js/issues"
+  },
+  "homepage": "https://github.com/qddegtya/bMath.js#readme",
+  "devDependencies": {
+    "eslint-plugin-react": "^3.14.0",
+    "mocha": "^2.3.4"
+  }
+}
