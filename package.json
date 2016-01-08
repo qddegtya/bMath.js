@@ -1,7 +1,7 @@
 {
   "name": "b-math",
   "version": "0.1.0",
-  "description": "bit operations in javascript",
+  "description": "Bit operations in javascript",
   "main": "bmath.js",
   "scripts": {
     "test": "mocha && istanbul cover ./node_modules/mocha/bin/_mocha -- -R spec && cat ./coverage/lcov.info | ./node_modules/.bin/codecov"

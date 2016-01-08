@@ -1,5 +1,5 @@
 /**
- * ut for bMath.js
+ * UT for bMath.js
  */
 
 'use strict';

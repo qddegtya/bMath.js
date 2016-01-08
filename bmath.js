@@ -1,9 +1,8 @@
 /**
  * bMath.js
- * bit operations in javascript.
+ * Bit operations in javascript.
  *
  * Created by archer on 2016/01/08.
- *
  */
 
 'use strict';
@@ -40,11 +39,8 @@
     x ^= y;
   }
 
-  /**
-   * 
-   */
+  
 
-  // Module exports.
   return {
     VERSION: VERSION,
     isPos: isPos,
